@@ -1,7 +1,7 @@
 ideas:
 
-bonemeal coralblock to get fan and coral
-bake coral to dry
-op enchantment
-refill from shulker
-food rocket storage
+dispense hoe and axe to rightclick</br>
+bake coral to dry</br>
+op enchantment</br>
+refill from shulker</br>
+food rocket storage</br>
